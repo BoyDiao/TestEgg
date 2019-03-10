@@ -32,4 +32,9 @@
       "tag"
     ],
     "author": "Bill Ryan <yuanbin2014@gmail.com>"
+    {
+  "plugins": [
+    "tags"
+  ],
+}
 }
