@@ -1,13 +1,5 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
+* [First Chapter](chapter1.md)
 * [Tags](tags.md)
-* [Initial page](readme.md)
-* [MI 9](mi-9/README.md)
-  * [Untitled](mi-9/untitled.md)
-
-## 123
-
-* [Untitled](123/untitled.md)
-* [Untitled](untitled-1.md)
-
