@@ -3,7 +3,7 @@ var slug = require('github-slugid');
 var eol = require('os').EOL;
 
 module.exports = {
-  book: {
+  package: {
     assets: './assets',
     css: [
       "plugin.css"
