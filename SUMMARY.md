@@ -1,5 +1,5 @@
 # Table of contents
-
+* [Tags](tags.md)
 * [Initial page](README.md)
 * [MI 9](mi-9/README.md)
   * [Untitled](mi-9/untitled.md)
